@@ -1,0 +1,10 @@
+--------------------------------
+Total Tiles: 0,
+Score: 0,
+Accuracy: 100.0
+Combo count: 0,
+Max Combo: 0
+Hits: 0,
+Misses: 0,
+Wrongs: 0
+--------------------------------
